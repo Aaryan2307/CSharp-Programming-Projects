@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wine Predictor", "Wine Predictor\Wine Predictor.csproj", "{CBF018E3-A929-40F3-892D-CD0871B72CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF018E3-A929-40F3-892D-CD0871B72CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF018E3-A929-40F3-892D-CD0871B72CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF018E3-A929-40F3-892D-CD0871B72CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF018E3-A929-40F3-892D-CD0871B72CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289AC8B2-7CCF-4F85-BD53-0D9D5A2F5895}
+	EndGlobalSection
+EndGlobal

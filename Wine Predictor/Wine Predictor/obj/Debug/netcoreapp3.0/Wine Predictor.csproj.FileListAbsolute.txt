@@ -1,0 +1,40 @@
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Wine Predictor.exe
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\obj\Debug\netcoreapp3.0\Wine Predictor.AssemblyInfoInputs.cache
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\obj\Debug\netcoreapp3.0\Wine Predictor.AssemblyInfo.cs
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Wine Predictor.deps.json
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Wine Predictor.runtimeconfig.json
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Wine Predictor.runtimeconfig.dev.json
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Wine Predictor.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Wine Predictor.pdb
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.Api.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.Core.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.Data.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.FastTree.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.Maml.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.PCA.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.PipelineInference.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.ResultProcessor.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.StandardLearners.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.Sweeper.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.Transforms.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Microsoft.ML.CpuMath.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libFactorizationMachineNative.so
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libFactorizationMachineNative.dylib
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\FactorizationMachineNative.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libCpuMathNative.so
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libCpuMathNative.dylib
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\CpuMathNative.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\obj\Debug\netcoreapp3.0\Wine Predictor.csprojAssemblyReference.cache
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\obj\Debug\netcoreapp3.0\Wine Predictor.csproj.CopyComplete
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\obj\Debug\netcoreapp3.0\Wine Predictor.dll
+C:\Users\LegendDude\Desktop\ML Stuff\Wine Predictor\Wine Predictor\obj\Debug\netcoreapp3.0\Wine Predictor.pdb
