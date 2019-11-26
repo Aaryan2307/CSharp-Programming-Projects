@@ -1,0 +1,6 @@
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\Factorial Finder\Factorial Finder\bin\Debug\Factorial Finder.exe.config
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\Factorial Finder\Factorial Finder\bin\Debug\Factorial Finder.exe
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\Factorial Finder\Factorial Finder\bin\Debug\Factorial Finder.pdb
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\Factorial Finder\Factorial Finder\obj\Debug\Factorial Finder.csprojResolveAssemblyReference.cache
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\Factorial Finder\Factorial Finder\obj\Debug\Factorial Finder.exe
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\Factorial Finder\Factorial Finder\obj\Debug\Factorial Finder.pdb

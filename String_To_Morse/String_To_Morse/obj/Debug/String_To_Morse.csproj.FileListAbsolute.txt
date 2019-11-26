@@ -1,0 +1,6 @@
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\String_To_Morse\String_To_Morse\bin\Debug\String_To_Morse.exe.config
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\String_To_Morse\String_To_Morse\bin\Debug\String_To_Morse.exe
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\String_To_Morse\String_To_Morse\bin\Debug\String_To_Morse.pdb
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\String_To_Morse\String_To_Morse\obj\Debug\String_To_Morse.csprojResolveAssemblyReference.cache
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\String_To_Morse\String_To_Morse\obj\Debug\String_To_Morse.exe
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\String_To_Morse\String_To_Morse\obj\Debug\String_To_Morse.pdb

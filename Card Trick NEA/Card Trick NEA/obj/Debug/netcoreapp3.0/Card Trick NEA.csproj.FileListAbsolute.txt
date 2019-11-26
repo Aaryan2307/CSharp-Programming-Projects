@@ -1,0 +1,11 @@
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\bin\Debug\netcoreapp3.0\Card Trick NEA.exe
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\bin\Debug\netcoreapp3.0\Card Trick NEA.deps.json
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\bin\Debug\netcoreapp3.0\Card Trick NEA.runtimeconfig.json
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\bin\Debug\netcoreapp3.0\Card Trick NEA.runtimeconfig.dev.json
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\bin\Debug\netcoreapp3.0\Card Trick NEA.dll
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\bin\Debug\netcoreapp3.0\Card Trick NEA.pdb
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\obj\Debug\netcoreapp3.0\Card Trick NEA.csprojAssemblyReference.cache
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\obj\Debug\netcoreapp3.0\Card Trick NEA.AssemblyInfoInputs.cache
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\obj\Debug\netcoreapp3.0\Card Trick NEA.AssemblyInfo.cs
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\obj\Debug\netcoreapp3.0\Card Trick NEA.dll
+C:\Users\LegendDude\source\repos\Card Trick NEA\Card Trick NEA\obj\Debug\netcoreapp3.0\Card Trick NEA.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Card Trick NEA/1.0.0": {
+        "runtime": {
+          "Card Trick NEA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Card Trick NEA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
