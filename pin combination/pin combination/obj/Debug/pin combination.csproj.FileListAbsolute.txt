@@ -1,0 +1,6 @@
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\pin combination\pin combination\bin\Debug\pin combination.exe.config
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\pin combination\pin combination\bin\Debug\pin combination.exe
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\pin combination\pin combination\bin\Debug\pin combination.pdb
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\pin combination\pin combination\obj\Debug\pin combination.csprojResolveAssemblyReference.cache
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\pin combination\pin combination\obj\Debug\pin combination.exe
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\pin combination\pin combination\obj\Debug\pin combination.pdb
