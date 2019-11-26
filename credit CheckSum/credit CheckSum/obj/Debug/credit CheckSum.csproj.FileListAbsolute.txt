@@ -1,0 +1,6 @@
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\credit CheckSum\credit CheckSum\bin\Debug\credit CheckSum.exe.config
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\credit CheckSum\credit CheckSum\bin\Debug\credit CheckSum.exe
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\credit CheckSum\credit CheckSum\bin\Debug\credit CheckSum.pdb
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\credit CheckSum\credit CheckSum\obj\Debug\credit CheckSum.csprojResolveAssemblyReference.cache
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\credit CheckSum\credit CheckSum\obj\Debug\credit CheckSum.exe
+C:\Users\LegendDude\Documents\Visual Studio 2015\Projects\credit CheckSum\credit CheckSum\obj\Debug\credit CheckSum.pdb
