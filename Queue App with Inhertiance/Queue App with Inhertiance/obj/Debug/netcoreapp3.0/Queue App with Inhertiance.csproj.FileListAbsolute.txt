@@ -1,0 +1,11 @@
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\bin\Debug\netcoreapp3.0\Queue App with Inhertiance.exe
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\bin\Debug\netcoreapp3.0\Queue App with Inhertiance.deps.json
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\bin\Debug\netcoreapp3.0\Queue App with Inhertiance.runtimeconfig.json
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\bin\Debug\netcoreapp3.0\Queue App with Inhertiance.runtimeconfig.dev.json
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\bin\Debug\netcoreapp3.0\Queue App with Inhertiance.dll
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\bin\Debug\netcoreapp3.0\Queue App with Inhertiance.pdb
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\obj\Debug\netcoreapp3.0\Queue App with Inhertiance.csprojAssemblyReference.cache
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\obj\Debug\netcoreapp3.0\Queue App with Inhertiance.AssemblyInfoInputs.cache
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\obj\Debug\netcoreapp3.0\Queue App with Inhertiance.AssemblyInfo.cs
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\obj\Debug\netcoreapp3.0\Queue App with Inhertiance.dll
+C:\Users\LegendDude\source\repos\Queue App with Inhertiance\Queue App with Inhertiance\obj\Debug\netcoreapp3.0\Queue App with Inhertiance.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue App with Inhertiance", "Queue App with Inhertiance\Queue App with Inhertiance.csproj", "{55CA2A23-32F9-4F02-A5EB-D1D597E83355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CA2A23-32F9-4F02-A5EB-D1D597E83355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CA2A23-32F9-4F02-A5EB-D1D597E83355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CA2A23-32F9-4F02-A5EB-D1D597E83355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CA2A23-32F9-4F02-A5EB-D1D597E83355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {145114F0-728C-42BF-8E33-BF5532D4F9C9}
+	EndGlobalSection
+EndGlobal
