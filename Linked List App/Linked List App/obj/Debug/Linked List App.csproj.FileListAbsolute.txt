@@ -1,0 +1,6 @@
+c:\users\puroa006.319\documents\visual studio 2012\Projects\Linked List App\Linked List App\bin\Debug\Linked List App.exe.config
+c:\users\puroa006.319\documents\visual studio 2012\Projects\Linked List App\Linked List App\bin\Debug\Linked List App.exe
+c:\users\puroa006.319\documents\visual studio 2012\Projects\Linked List App\Linked List App\bin\Debug\Linked List App.pdb
+c:\users\puroa006.319\documents\visual studio 2012\Projects\Linked List App\Linked List App\obj\Debug\Linked List App.csprojResolveAssemblyReference.cache
+c:\users\puroa006.319\documents\visual studio 2012\Projects\Linked List App\Linked List App\obj\Debug\Linked List App.exe
+c:\users\puroa006.319\documents\visual studio 2012\Projects\Linked List App\Linked List App\obj\Debug\Linked List App.pdb
